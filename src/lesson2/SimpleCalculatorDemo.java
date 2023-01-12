@@ -24,7 +24,7 @@ public class SimpleCalculatorDemo {
 
 
         SimpleCalculator simpleCalculator = new SimpleCalculator();
-        var result = simpleCalculator.multiplication(10, 20);
+        var multiplicationResult = simpleCalculator.multiplication(10, 20);
 
     }
 }
