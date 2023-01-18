@@ -17,7 +17,7 @@ public class MathTest {
         if (result == 1) {
             System.out.println("shouldReturn1whenPowerIs0: SUCCESS");
         } else {
-            System.err.println("shouldReturn1whenPowerIs0: FAILED");
+            System.err.println("shouldReturn1whenPowerIs0: FAILED, expected: 1, but actual: " + result);
         }
     }
 
@@ -27,7 +27,7 @@ public class MathTest {
         if (result == 1) {
             System.out.println("shouldReturn1whenPowerIs0andNumberIs0: SUCCESS");
         } else {
-            System.err.println("shouldReturn1whenPowerIs0andNumberIs0: FAILED");
+            System.err.println("shouldReturn1whenPowerIs0andNumberIs0: FAILED , expected: 1, but actual: " + result);
         }
     }
 
@@ -37,7 +37,7 @@ public class MathTest {
         if (result == 4) {
             System.out.println("shouldReturn4whenPowerIs2andNumberIs2: SUCCESS");
         } else {
-            System.err.println("shouldReturn4whenPowerIs2andNumberIs2: FAILED");
+            System.err.println("shouldReturn4whenPowerIs2andNumberIs2: FAILED , expected: 4, but actual: " + result);
         }
     }
 
@@ -48,7 +48,7 @@ public class MathTest {
         if (result == 27) {
             System.out.println("shouldReturn27whenPowerIs3andNumberIs3: SUCCESS");
         } else {
-            System.err.println("shouldReturn27whenPowerIs3andNumberIs3: FAILED");
+            System.err.println("shouldReturn27whenPowerIs3andNumberIs3: FAILED , expected: 27, but actual: " + result);
         }
     }
 
@@ -58,7 +58,7 @@ public class MathTest {
         if (result == 1) {
             System.out.println("shouldReturn1whenPowerIs1andNumberIs1: SUCCESS");
         } else {
-            System.err.println("shouldReturn1whenPowerIs1andNumberIs1: FAILED");
+            System.err.println("shouldReturn1whenPowerIs1andNumberIs1: FAILED , expected: 1, but actual: " + result);
         }
     }
 
@@ -68,7 +68,7 @@ public class MathTest {
         if (result == 5) {
             System.out.println("shouldReturn5whenPowerIs1andNumberIs5: SUCCESS");
         } else {
-            System.err.println("shouldReturn5whenPowerIs1andNumberIs5: FAILED");
+            System.err.println("shouldReturn5whenPowerIs1andNumberIs5: FAILED, expected: 5, but actual: " + result);
         }
     }
 }

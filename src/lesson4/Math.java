@@ -4,7 +4,10 @@ public class Math {
 
     public int pow(int number, int power) {
         int result = 1;
-        for (int i = 0; i <= power; i++) {
+        if (power == 0) {
+            return result;
+        }
+        for (int i = 1; i <= power; i++) {
             result = result * number;
         }
         return result;
