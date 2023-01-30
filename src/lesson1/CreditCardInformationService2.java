@@ -1,6 +1,6 @@
 package lesson1;
 
-public class CreditCardInformationService {
+public class CreditCardInformationService2 {
 
     public void printCardDetails(CreditCard creditCard) {
         System.out.println(creditCard.paymentNetwork);

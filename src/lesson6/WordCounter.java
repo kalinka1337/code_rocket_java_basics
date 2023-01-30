@@ -15,7 +15,11 @@ public class WordCounter {
 
     public Map<String, Integer> wordsCount(List<String> words) {
         HashMap<String, Integer> wordsMap = new HashMap<>();
+
         for (String word : words) {
+            if(word.equals("")){
+                continue;
+            }
             if (wordsMap.containsKey(word)) {
                 Integer count = wordsMap.get(word);
                 count++;

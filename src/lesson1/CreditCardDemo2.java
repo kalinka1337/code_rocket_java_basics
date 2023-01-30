@@ -2,11 +2,11 @@ package lesson1;
 
 import java.util.Date;
 
-public class CreditCardDemo {
+public class CreditCardDemo2 {
 
     public static void main(String[] args) {
         CreditCard firstCreditCard = new CreditCard();
-        CreditCardInformationService informationService = new CreditCardInformationService();
+        CreditCardInformationService2 informationService = new CreditCardInformationService2();
 
         informationService.printCardDetails(firstCreditCard);
 
