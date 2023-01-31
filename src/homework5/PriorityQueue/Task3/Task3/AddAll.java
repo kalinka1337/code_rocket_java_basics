@@ -1,4 +1,4 @@
-package PriorityQueue.Task3;
+package homework5.PriorityQueue.Task3.Task3;
 
 import java.util.PriorityQueue;
 
