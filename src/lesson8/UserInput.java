@@ -17,4 +17,10 @@ public class UserInput {
 
         return new TemperatureConversionRequest(from, to, temperature);
     }
+
+    public Integer getNumber() {
+        System.out.println("Please enter menu number: ");
+        Scanner scanner = new Scanner(System.in);
+        return scanner.nextInt();
+    }
 }

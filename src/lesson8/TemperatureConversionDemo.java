@@ -13,7 +13,13 @@ public class TemperatureConversionDemo {
 
         UserInput userInput = new UserInput();
 
-        UserMenu userMenu = new UserMenu(userInput, temperatureConversionService);
+
+        List<MenuAction> actions = List.of(
+                new TemperatureConversionMenuAction(userInput, temperatureConversionService),
+                new ExitMenuAction()
+        );
+
+        UserMenu userMenu = new UserMenu(userInput, actions);
         userMenu.startMenu();
 
     }
