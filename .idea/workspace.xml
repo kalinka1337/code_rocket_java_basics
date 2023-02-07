@@ -5,48 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9f4b7c9-c513-4909-aa7f-af48595a7507" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task10/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task10/EmployeeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task11/Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task11/MatrixDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task12/Refrigerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task13/Umbrella.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task13/WordValidationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task14/Orange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task14/WordValidationServices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task15/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task15/OccurenceFindingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task16/Abbreviations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task16/AbbreviationsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task17/CharacterFindingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task17/Characters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task18/ConsonantFilteringService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task18/Consonants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task19/AlphabetCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task19/AlphabetCounterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task19/MaxOccurenceFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task1n2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task1n2/studentDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task20/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task3/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task4/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task4/TriangleDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task5/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task5/RectangleDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task6/Area.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task6/AreaInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task7/Average.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task7/AverageDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task8/Complex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task8/ComplexDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task9/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task9/EmployeeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/UserCreationDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/UserInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework7shapes/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework7shapes/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework7shapes/ShapeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework7shapes/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework7shapes/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework7shapes/squareID.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework/Task1/Converter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/Task1/Converter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework/Task2/Integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/Task2/Integer.java" afterDir="false" />
@@ -57,9 +24,6 @@
       <change beforePath="$PROJECT_DIR$/src/homework/Task7/Multiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/Task7/Multiply.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework/Task8/limits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/Task8/limits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework/Task9/Break.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/Task9/Break.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/code-rocket-java-basics/src/lesson2/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/code-rocket-java-basics/src/lesson2/UserCreationDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/code-rocket-java-basics/src/lesson2/UserInput.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +34,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -102,6 +67,10 @@
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="homework2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="homework3.Task27" />
+      <recent name="homework3.Task20" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
