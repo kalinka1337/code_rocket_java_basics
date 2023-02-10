@@ -2,10 +2,37 @@ package homework7shapes;
 
 import java.util.Scanner;
 
-public class Square implements squareID
+public class Square extends Shape
 {
-    @Override
-    public void square() {
+    private double side1;
+    private double side2;
+
+    public Square(String name, double side1, double side2) {
+        super();
+        this.side1 = side1;
+        this.side2 = side2;
+    }
+
+    public Square() {
+
+    }
+
+    public double getSide1() {
+        return side1;
+    }
+
+    public void setSide1(double side1) {
+        this.side1 = side1;
+    }
+
+    public double getSide2() {
+        return side2;
+    }
+
+    public void setSide2(double side2) {
+        this.side2 = side2;
+    }
+    public void tempSquare() {
         Scanner side = new Scanner(System.in);
         System.out.println("Input side a: ");
         double side1 = side.nextDouble();

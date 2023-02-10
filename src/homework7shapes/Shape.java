@@ -2,32 +2,20 @@ package homework7shapes;
 
 import java.util.Scanner;
 
-public class Shape
+public abstract class Shape
+
 {
-    public void shapes(){
-        Scanner input = new Scanner(System.in);
-        System.out.print("Input the name of the shape: circle, triangle or square --> ");
-        String shape1 = input.nextLine();
-        switch(shape1) {
-            case "square":
-                Square square = new Square();
-                square.square();
-                break;
+    private String name;
 
-            case "circle":
-                Circle circle = new Circle();
-                circle.circle();
-                break;
+    public Shape() {
+        this.name = name;
+    }
 
-            case "triangle":
-                Triangle triangle = new Triangle();
-                triangle.triangle();
-                break;
+    public String getName() {
+        return name;
+    }
 
-            default:
-                System.err.println("INVALID INPUT! Try again!");
-                break;
-        }
-
+    public void setName(String name) {
+        this.name = name;
     }
 }

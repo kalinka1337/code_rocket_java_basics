@@ -2,9 +2,9 @@ package homework7shapes;
 
 import java.util.Scanner;
 
-public class Circle
+public class Circle extends Shape
 {
-    public void circle(){
+    public void tempCircle(){
         double PI = 3.14159265358979323846;
         Scanner circleInput = new Scanner(System.in);
         System.out.println("Please input the radius of circle: ");

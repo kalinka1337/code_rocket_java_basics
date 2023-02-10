@@ -23,8 +23,8 @@ public class ShapeCallout
                 System.out.println("Which shapes do you want to see?");
                 break;
             case 3:
-                Shape shape = new Shape();
-                shape.shapes();
+                TemporaryShape temporaryShape = new TemporaryShape();
+                temporaryShape.shapes();
                 break;
             case 0:
                 System.out.println("Nothing to do, goodbye!");
