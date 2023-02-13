@@ -77,4 +77,9 @@ public class Triangle extends Shape
                 System.err.println("Invalid input, try again!");
         }
     }
+
+    @Override
+    public String toString() {
+        return "Triangle shape with name: " + getName() + " with first side: " + side1 + ", second side: " + side2 + " and third side: " + side3;
+    }
 }

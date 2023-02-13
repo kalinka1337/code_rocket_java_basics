@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9f4b7c9-c513-4909-aa7f-af48595a7507" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/homework7shapes/ShapeRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework7shapes/TemporaryShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework7shapes/ShapeOutput.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/.idea/workspace.xml" afterDir="false" />
@@ -20,12 +19,12 @@
       <change beforePath="$PROJECT_DIR$/src/homework/Task8/limits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/Task8/limits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework/Task9/Break.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/Task9/Break.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework7shapes/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework7shapes/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework7shapes/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework7shapes/Shape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework7shapes/ShapeCallout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework7shapes/ShapeCallout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework7shapes/ShapeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework7shapes/ShapeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework7shapes/ShapeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework7shapes/ShapeRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework7shapes/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework7shapes/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework7shapes/StoreShapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework7shapes/StoreShapes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework7shapes/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework7shapes/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework7shapes/squareID.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,5 +84,12 @@
       <updated>1673250957933</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="homework7shapes.Square" memberName="name" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>

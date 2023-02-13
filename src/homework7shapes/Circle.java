@@ -4,6 +4,16 @@ import java.util.Scanner;
 
 public class Circle extends Shape
 {
+    public double radius;
+
+    public double getRadius() {
+        return radius;
+    }
+
+    public void setRadius(double radius) {
+        this.radius = radius;
+    }
+
     public void tempCircle(){
         double PI = 3.14159265358979323846;
         Scanner circleInput = new Scanner(System.in);
@@ -30,5 +40,10 @@ public class Circle extends Shape
                 System.err.println("Invalid input, try again!");
                 break;
         }
+    }
+
+    @Override
+    public String toString() {
+        return "Circle shape with name: " + getName() + " and the radius of " + getRadius();
     }
 }

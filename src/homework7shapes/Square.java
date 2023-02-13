@@ -61,4 +61,9 @@ public class Square extends Shape
                 break;
         }
     }
+
+    @Override
+    public String toString() {
+        return "Square shape with name: " + getName() + " and first side: " + side1 + " and second side: " + side2;
+    }
 }
